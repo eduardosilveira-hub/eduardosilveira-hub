@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @eduardosilveira-hub
 - 👀 I’m interested in Coding, Dev, Security, Hacking, Videogames, skating, etc.
-- 🌱 I’m currently deepening my learnngi in:
--          Python/Flask
--          Linux
--          Design Patterns
+- 🌱 I’m currently deepening my learnngi in: Python/Flask, Linux Internals, Jenkins.
 - 💞️ I’m looking to collaborate on Linux/Python/VueJS related projects
 - 📫 How to reach me: Here.
 
